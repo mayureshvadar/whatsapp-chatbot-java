@@ -47,7 +47,7 @@ A fully functional WhatsApp chatbot backend built using **Java**, **Spring Boot*
 
 ```bash
 # Step 1: Clone and enter project
-git clone https://github.com/your-username/whatsappbot.git
+git clone https://github.com/mayureshvadar/whatsappbot.git
 cd whatsappbot
 
 # Step 2: Run the Spring Boot app
